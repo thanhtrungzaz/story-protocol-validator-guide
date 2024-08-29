@@ -8,6 +8,7 @@ Disk	200 GB
 Bandwidth	10 MBit/s
 
 wget https://story-geth-binaries.s3.us-west-1.amazonaws.com/story-public/story-linux-amd64-0.9.11-2a25df1.tar.gz
+
 wget https://story-geth-binaries.s3.us-west-1.amazonaws.com/geth-public/geth-linux-amd64-0.9.2-ea9f0d2.tar.gz
 
 tar -zxvf story-linux-amd64-0.9.11-2a25df1.tar.gz
