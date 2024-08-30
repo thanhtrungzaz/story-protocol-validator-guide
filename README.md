@@ -27,7 +27,7 @@ tar -zxvf geth-linux-amd64-0.9.2-ea9f0d2.tar.gz
 screen -S geth
 ```
 ```bash
-cd geth-linux-amd64-0.9.2-ea9f0d2.tar.gz
+cd geth-linux-amd64-0.9.2-ea9f0d2
 ```
 ```bash
 ./geth --iliad --syncmode full
@@ -37,7 +37,7 @@ crlt a d
 screen -S aliad
 ```
 ```bash
-cd story-linux-amd64-0.9.11-2a25df1.tar.gz
+cd story-linux-amd64-0.9.11-2a25df1
 ```
 ```bash
 ./story init  --network iliad
