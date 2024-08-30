@@ -59,8 +59,7 @@ cd story-linux-amd64-0.9.11-2a25df1.tar.gz
 
 this give you private-key validator wallet  . import it to metamask to get address then use faucet https://faucet.story.foundation/
 
-when you have token in your validator wallet you can creat your validator . beware gas  better to get 2-3 IP token faucet 
-```bash
+when you have token in your validator wallet you can creat your validator , gas . better to faucet 2-3 IP token 
 ./story validator create --stake 1000000000000000000
 ```
 
