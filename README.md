@@ -54,7 +54,7 @@ waiting until your node full sync  then creat validator
 cd story-linux-amd64-0.9.11-2a25df1.tar.gz
 ```
 ```bash
-./story validator export --export-evm-key
+./story validator export --export-evm-key --evm-key-path .env
 ```
 
 this give you private-key validator wallet  . import it to metamask to get address then use faucet https://faucet.story.foundation/
