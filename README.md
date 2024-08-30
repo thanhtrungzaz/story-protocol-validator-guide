@@ -67,7 +67,7 @@ when you have token in your validator wallet you can creat your validator , gas 
 if pass your validator will creat  like this 
 
 
-
+```
 Transaction hash: 0x36b95f6cf400202cf9aaa6fa71740f61d9bdfac4a15a48f81542f076e7830cb4
 
 Explorer URL: https://testnet.storyscan.xyz/tx/0x36b95f6cf400202cf9aaa6fa71740f61d9bdfac4a15a48f81542f076e7830cb4
@@ -77,7 +77,7 @@ Transaction sent, waiting for confirmation...
 Transaction confirmed successfully!
 
 Validator created successfully!
-
+```
 
 
 
